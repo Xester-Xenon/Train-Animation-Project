@@ -45,6 +45,8 @@ Working on this project helped me understand:
 ## Note
 This project is made for learning and academic purposes.  
 Feel free to try it, modify it, and have fun with graphics!
+I have attached a screen recording of the animation, if you
+to see it, please download it raw.
 
 ---
 
